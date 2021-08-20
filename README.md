@@ -41,12 +41,12 @@ This Project was created becouse I got the excercise to make an Website using PH
 
 ## Getting Started
 
-A Documentation follows soon
+A Documentation follows soon.
 
 
 ## Usage
 
-A Documentation follows soon
+A Documentation follows soon.
 
 
 <!-- ROADMAP -->
